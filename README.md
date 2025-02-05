@@ -84,7 +84,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsdk02&show_icons=true&locale=en" alt="Pavan-Kumar-Reddy-45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsdk02&" alt="Pavan-Kumar-Reddy-45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-Kumar-Reddy-45&" alt="Pavan-Kumar-Reddy-45" /></p>
+
+<p align="center">
+  <a href="https://github.com/Gunasaikiran" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pavan-Kumar-Reddy-45&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
 ---
 
 🔗 **Let's Connect**  
