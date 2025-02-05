@@ -1,4 +1,4 @@
-<h1 align="center">Bhavanam Pavan Kumar Reddy</h1>  
+<h1 align="center">👋 Hi, I'm Bhavanam Pavan Kumar Reddy </h1>  
 
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/pavan-kumar-reddy-bhavanam/">LinkedIn</a> | <a href="https://leetcode.com/u/pavan_riser/">LeetCode</a> | <a href="https://www.geeksforgeeks.org/user/bhavanampavanreddy/">GeeksForGeeks</a>  
@@ -80,14 +80,12 @@
 
 ### 📊 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsdk02&show_icons=true&locale=en&layout=compact" alt="Pavan-Kumar-Reddy-45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pavan-Kumar-Reddy-45&show_icons=true&locale=en&layout=compact" alt="Pavan-Kumar-Reddy-45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsdk02&show_icons=true&locale=en" alt="Pavan-Kumar-Reddy-45" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-Kumar-Reddy-45&" alt="Pavan-Kumar-Reddy-45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Reddy-45&show_icons=true&locale=en" alt="Pavan-Kumar-Reddy-45" /></p>
 
 <p align="center">
-  <a href="https://github.com/Gunasaikiran" target="_blank">
+  <a href="https://github.com/Pavan-Kumar-Reddy-45" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Pavan-Kumar-Reddy-45&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
