@@ -1,7 +1,6 @@
 <h1 align="center">Bhavanam Pavan Kumar Reddy</h1>  
 
 <p align="center">
-📍 Warangal, Telangana | 📞 +91-9505119411 | ✉️ bhavanampavanreddy@gmail.com  
 🔗 <a href="https://www.linkedin.com/in/pavan-kumar-reddy-bhavanam/">LinkedIn</a> | <a href="https://leetcode.com/u/pavan_riser/">LeetCode</a> | <a href="https://www.geeksforgeeks.org/user/bhavanampavanreddy/">GeeksForGeeks</a>  
 </p>
 
@@ -81,12 +80,11 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Reddy-45&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Reddy-45e&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsdk02&show_icons=true&locale=en&layout=compact" alt="Pavan-Kumar-Reddy-45" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsdk02&show_icons=true&locale=en" alt="Pavan-Kumar-Reddy-45" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsdk02&" alt="Pavan-Kumar-Reddy-45" /></p>
 ---
 
 🔗 **Let's Connect**  
