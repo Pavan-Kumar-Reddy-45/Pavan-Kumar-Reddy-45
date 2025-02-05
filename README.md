@@ -89,6 +89,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Pavan-Kumar-Reddy-45&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pavan-Kumar-Reddy-45.Pavan-Kumar-Reddy-45)
 ---
 
 🔗 **Let's Connect**  
