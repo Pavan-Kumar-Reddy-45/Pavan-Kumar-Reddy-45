@@ -2,7 +2,7 @@
 
 <p align="center">
 📍 Warangal, Telangana | 📞 +91-9505119411 | ✉️ bhavanampavanreddy@gmail.com  
-🔗 <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pavan-kumar-reddy-bhavanam/)">LinkedIn</a> | <a href="[https://leetcode.com/your-profile](https://leetcode.com/u/pavan_riser/)">LeetCode</a> | <a href="[https://www.geeksforgeeks.org/user/your-profile](https://www.geeksforgeeks.org/user/bhavanampavanreddy/)">GeeksForGeeks</a>  
+🔗 <a href="[LinkedIn](https://www.linkedin.com/in/pavan-kumar-reddy-bhavanam/)">LinkedIn</a> | <a href="[LeetCode](https://leetcode.com/u/pavan_riser/)">LeetCode</a> | <a href="[GeeksForGeeks](https://www.geeksforgeeks.org/user/bhavanampavanreddy/)">GeeksForGeeks</a>  
 </p>
 
 ---
