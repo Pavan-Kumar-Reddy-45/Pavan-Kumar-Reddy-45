@@ -4,6 +4,8 @@
 🔗 <a href="https://www.linkedin.com/in/pavan-kumar-reddy-bhavanam/">LinkedIn</a> | <a href="https://leetcode.com/u/pavan_riser/">LeetCode</a> | <a href="https://www.geeksforgeeks.org/user/bhavanampavanreddy/">GeeksForGeeks</a>  
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pavan-Kumar-Reddy-45&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan-Kumar-Reddy-45" /> 
+
 ---
 
 ## 👋 About Me  
@@ -90,7 +92,6 @@
   </a>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pavan-Kumar-Reddy-45.Pavan-Kumar-Reddy-45)
 ---
 
 🔗 **Let's Connect**  
