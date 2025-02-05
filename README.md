@@ -84,8 +84,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pavan-Kumar-Reddy-45&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-Kumar-Reddy-45&theme=radical" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Kumar-Reddy-45e&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
